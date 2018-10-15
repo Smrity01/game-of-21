@@ -1,6 +1,7 @@
 # Game-of-21
 Amazon Alexa skill
 ![image](21_2.png)
+
  **The Game of Twenty One.** Replicated using the concept of famous game *"Blackjack"* is one of most trending casino banking games in the world.
 
 >It is played between the user and Alexa. Being a totally luck based game, there's still a lot of fun hidden in it. Along with your luck, it checks your gut feeling as well. Hit till you feel the odds in your favor.
